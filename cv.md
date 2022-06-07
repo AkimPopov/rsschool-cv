@@ -11,6 +11,6 @@
 - HTML
 - CSS
 ## Education
-- **P.O.Sukhoi Technical University of Gomel**: *Specialty: power engineer (specialization: power supply of enterprises and civil buildings) - graduate 2017*
+- **Sukhoi Technical University of Gomel**: *Specialty: power engineer (specialization: power supply of enterprises and civil buildings) - graduate 2017*
 ## English
 - Elementary (A2)
